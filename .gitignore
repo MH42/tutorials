@@ -92,7 +92,7 @@ apache-fop/src/test/resources/output_jtidy.pdf
 
 
 # Projects #
-akka-http/
+/akka-http/
 akka-streams/
 algorithms-genetic/
 algorithms-miscellaneous-1/
